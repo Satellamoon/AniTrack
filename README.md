@@ -5,6 +5,7 @@ Uses
 Library:
 Requests
 Beautiful Soup
+
 Api:
 AniList GraphQL 
 
